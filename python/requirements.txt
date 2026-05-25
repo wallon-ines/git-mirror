@@ -1,0 +1,8 @@
+# Git Mirror Python Port Dependencies
+
+click>=8.1.0
+PyYAML>=6.0
+requests>=2.28.0
+python-slugify>=6.1.0
+prometheus-client>=0.17.0
+junit-xml>=1.9
